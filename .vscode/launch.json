@@ -12,7 +12,7 @@
         },
         {
             "name": "Flutter",
-            "program": "lib/25thAugust.dart",
+            "program": "lib/25thaugust/25thAugust.dart",
             "request": "launch",
             "type": "dart"
         },
